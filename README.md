@@ -17,7 +17,7 @@ This repository documents my home lab, which I use to learn and practice:
 
 ## Virtualizaiton Platform
 - Proxmox VE cluster (3 nodes)
-- Local storage + Ceph clustered storage + NAS backup for VM disks
+- Local storage + Ceph clustered storage + NAS backup for VM disks using Proxmox Backup Server
 
 ## Services
 - Jellyfin (media server)
